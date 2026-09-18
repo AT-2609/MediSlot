@@ -212,8 +212,7 @@ These are suggested manual checks, not a claim of automated test coverage.
 - Pagination and additional appointment filters.
 - Automated API and interface tests.
 
-## Maintainer
+## Author
 
 **Arpit Thakur**  
-[GitHub](https://github.com/AT-2609) · [MediSlot Repository](https://github.com/AT-2609/MediSlot)
 
