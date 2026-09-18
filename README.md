@@ -4,9 +4,6 @@
 
 MediSlot is a full-stack MERN application for booking medical appointments and managing the workflows around them. Patients can explore doctors and manage bookings, while doctors and administrators use a separate portal to manage appointments, profiles, and availability.
 
-**Maintained by [Arpit Thakur](https://github.com/AT-2609)**  
-**B.Tech, Electronics and Communication Engineering — Delhi Technological University**
-
 ## Overview
 
 The project brings three connected applications together in one repository:
@@ -218,10 +215,5 @@ These are suggested manual checks, not a claim of automated test coverage.
 ## Maintainer
 
 **Arpit Thakur**  
-Delhi Technological University — ECE, Class of 2027  
 [GitHub](https://github.com/AT-2609) · [MediSlot Repository](https://github.com/AT-2609/MediSlot)
-
-## Acknowledgments
-
-MediSlot is based on [Mahmud Alam's Doctor Appointment Booking System](https://github.com/Mahmud-Alam/mern-doctor-appointment-booking-system). Credit belongs to the original author for the foundational implementation. This repository presents the project under the MediSlot title with documentation adapted for this version.
 
